@@ -23,3 +23,5 @@ Sample Output
 Explanation
 
 1 9 45 55 and 99 are the Kaprekar Numbers in the given range.
+
+HackerRank: https://www.hackerrank.com/challenges/kaprekar-numbers/problem
